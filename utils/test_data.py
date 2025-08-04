@@ -1,0 +1,2 @@
+accepted_users = ["standard_user", "problem_user", "performance_glitch_user"]
+password = "secret_sauce"
